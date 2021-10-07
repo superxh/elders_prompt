@@ -1,7 +1,7 @@
 # elders_prompt
 Add GLASSES 👓, FROG🐸 emoji plus a precious second of your life to your Linux bash prompt
 
-
+<img src="https://github.com/superxh/elders_prompt/blob/main/elders_prompt.gif?raw=true" alt="elders_prompt.gif" style="zoom: 67%;" />
 
 ## Installation
 
