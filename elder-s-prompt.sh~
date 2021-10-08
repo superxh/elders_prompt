@@ -1,6 +1,6 @@
 elder_emoji() {
 	local sec=$(date +%-S)
-	local selector=$(( $sec % 2 ))
+	selector=$(( $sec % 2 ))
 	if [[ $sec -ge 0 && $sec -lt 2 ]]; then
 		echo -e '\033[05m'+1s'\033[00m'
 	elif [[ $sec -ge 20 && $sec -lt 22 ]]; then
